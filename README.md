@@ -1,4 +1,4 @@
-# pytest-example
+# Pytest Snippets
 This repo contains example code snippets for using pytest. You can find the original article [here](https://www.scottcampit.com/pytest-for-test-driven-development/).
 
 To run the tests, you need to have `pytest` installed. First, create a virtual environment in the repo and activate it. We'll name ours `pyetst-example` under the directory `.env`.
